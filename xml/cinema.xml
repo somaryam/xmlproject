@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE films SYSTEM "cinema.dtd">
+<films>
+    <film id="wak">
+        <titre>Wakanda</titre>
+        <image url="imagescinoch/wakanda.jpg"/>
+        <duree>2h 14min</duree>
+        <genre>Action, Aventure, Science-Fiction</genre>
+        <realisateur>Ryan Coogler</realisateur>
+        <acteurs>Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o</acteurs>
+        <annee>2018</annee>
+        <langue>VF (en français)</langue>
+        <synopsis>
+            T'Challa, roi du Wakanda, doit affronter un ennemi redoutable pour protéger son peuple et son pays.
+        </synopsis>
+        <note_presse>4/5</note_presse>
+        <note_spectateurs>4/5</note_spectateurs>
+        <horaires>
+            <horaire jour="Mercredi" heure="14:00"/>
+            <horaire jour="Mercredi" heure="17:00"/>
+            <horaire jour="Mercredi" heure="20:00"/>
+            <horaire jour="Vendredi" heure="15:00"/>
+            <horaire jour="Vendredi" heure="18:00"/>
+            <horaire jour="Vendredi" heure="21:00"/>
+            <horaire jour="Dimanche" heure="13:00"/>
+            <horaire jour="Dimanche" heure="16:00"/>
+            <horaire jour="Dimanche" heure="19:00"/>
+        </horaires>
+    </film>
+    <film id="morlam"> 
+        <titre>Los de Mor Lam</titre>
+        <image url="imagescinoch/osmorlam.jpg"/>
+        <duree>1h 50min</duree>
+        <genre>Drame</genre>
+        <realisateur>Anonymous</realisateur>
+        <acteurs>Omar Sy, Aïssa Maïga, Louis-Do de Lencquesaing</acteurs>
+        <annee>2023</annee>
+        <langue>VF (en français)</langue>
+        <synopsis>
+            Une histoire émouvante de la vie quotidienne de personnes ordinaires dans un quartier de Dakar.
+        </synopsis>
+        <horaires>
+            <horaire jour="Jeudi" heure="16:00"/>
+            <horaire jour="Jeudi" heure="19:00"/>
+            <horaire jour="Samedi" heure="14:00"/>
+            <horaire jour="Samedi" heure="17:00"/>
+            <horaire jour="Samedi" heure="20:00"/>
+            <horaire jour="Lundi" heure="15:00"/>
+            <horaire jour="Lundi" heure="18:00"/>
+            <horaire jour="Lundi" heure="21:00"/>
+        </horaires>
+    </film>
+    <film id="sophie">
+        <titre>Les Malheurs de Sophie</titre>
+        <image url="imagescinoch/malheurdesophie.jpg"/>
+        <duree>1h 46min</duree>
+        <genre>Aventure, Famille</genre>
+        <realisateur>Christophe Honoré</realisateur>
+        <acteurs>Caroline Grant, Anaïs Demoustier, Golshifteh Farahani</acteurs>
+        <annee>2016</annee>
+        <langue>VF (en français)</langue>
+        <synopsis>
+            Sophie, une petite fille pleine d'énergie, vit mille aventures dans un cadre enchanteur du XIXe siècle.
+        </synopsis>
+        <note_presse>3/5</note_presse>
+        <horaires>
+            <horaire jour="Mercredi" heure="15:00"/>
+            <horaire jour="Mercredi" heure="18:00"/>
+            <horaire jour="Vendredi" heure="16:00"/>
+            <horaire jour="Vendredi" heure="19:00"/>
+            <horaire jour="Dimanche" heure="14:00"/>
+            <horaire jour="Dimanche" heure="17:00"/>
+        </horaires>
+    </film>
+    <film id="kny">
+        <titre>KNY Saison 4</titre>
+        <image url="imagescinoch/kny.jpg"/>
+        <duree>24 épisodes</duree>
+        <genre>Action, Drame, Fantastique</genre>
+        <realisateur>Haruo Sotozaki</realisateur>
+        <annee>2023</annee>
+        <langue>VO (sous-titrée en français)</langue>
+        <synopsis>
+            La quatrième saison de l'anime Demon Slayer suit les aventures de Tanjiro, Nezuko et leurs amis.
+        </synopsis>
+        <horaires>
+            <horaire jour="Samedi" heure="11:00"/>
+            <horaire jour="Samedi" heure="13:30"/>
+            <horaire jour="Samedi" heure="16:00"/>
+            <horaire jour="Samedi" heure="18:30"/>
+            <horaire jour="Dimanche" heure="10:00"/>
+            <horaire jour="Dimanche" heure="12:30"/>
+            <horaire jour="Dimanche" heure="15:00"/>
+            <horaire jour="Dimanche" heure="17:30"/>
+            <horaire jour="Lundi" heure="14:00"/>
+            <horaire jour="Lundi" heure="16:30"/>
+            <horaire jour="Lundi" heure="19:00"/>
+            <horaire jour="Lundi" heure="21:30"/>
+        </horaires>
+    </film>
+    <film id="mha">
+        <titre>MHA</titre>
+        <image url="imagescinoch/mha.jpg"/>
+        <duree>2h 2min</duree>
+        <genre>Action, Animation, Aventure</genre>
+        <realisateur>Kenji Nagasaki</realisateur>
+        <acteurs>Daiki Yamashita, Nobuhiko Okamoto, Yuki Kaji</acteurs>
+        <annee>2021</annee>
+        <langue>VO (sous-titrée en français)</langue>
+        <synopsis>
+            Les super-héros et les étudiants de la classe 1-A affrontent de nouveaux défis dans un monde rempli de super-pouvoirs.
+        </synopsis>
+        <note_spectateurs>5/5</note_spectateurs>
+        <horaires>
+            <horaire jour="Mercredi" heure="17:00"/>
+            <horaire jour="Mercredi" heure="19:30"/>
+            <horaire jour="Vendredi" heure="18:00"/>
+            <horaire jour="Vendredi" heure="20:30"/>
+            <horaire jour="Dimanche" heure="15:00"/>
+            <horaire jour="Dimanche" heure="17:30"/>
+        </horaires>
+    </film>
+    <film id="kilari"> 
+        <titre>Kilari</titre>
+        <image url="imagescinoch/kilari.jpg"/>
+        <duree>1h 38min</duree>
+        <genre>Comédie, Romance</genre>
+        <realisateur>Hiroshi Nagahama</realisateur>
+        <acteurs>Yumeko Kobayashi, Na-san, Fubuki Takane</acteurs>
+        <annee>2006</annee>
+        <langue>VO (sous-titrée en français)</langue>
+        <synopsis>
+            L'histoire de Kilari Tsukishima, une jeune fille pleine de vie qui aspire à devenir une idole populaire.
+        </synopsis>
+        <note_presse>4/5</note_presse>
+        <horaires>
+            <horaire jour="Jeudi" heure="16:00"/>
+            <horaire jour="Jeudi" heure="18:30"/>
+            <horaire jour="Samedi" heure="14:00"/>
+            <horaire jour="Samedi" heure="16:30"/>
+            <horaire jour="Lundi" heure="15:00"/>
+            <horaire jour="Lundi" heure="17:30"/>
+        </horaires>
+    </film>
+    <film id="wednesday">
+        <titre>Wednesday</titre>
+        <image url="imagescinoch/wednesday.webp"/>
+        <duree>2h</duree>
+        <genre>Horreur</genre>
+        <realisateur>ABC</realisateur>
+        <annee>2022</annee>
+        <synopsis>Un thriller qui suit les événements surnaturels et effrayants de la vie d'un groupe de jeunes.</synopsis>
+        <horaires>
+            <horaire jour="Lundi" heure="13:00"/>
+        </horaires>
+    </film>
+    
+</films>

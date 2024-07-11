@@ -1,0 +1,18 @@
+<!ELEMENT films (film+)>
+<!ELEMENT film (titre, image?, (duree | genre | realisateur | acteurs | annee | langue)*, synopsis, (note_presse?, note_spectateurs?), horaires)>
+<!ATTLIST film id ID #REQUIRED>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT image EMPTY>
+<!ATTLIST image url CDATA #REQUIRED>
+<!ELEMENT duree (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT realisateur (#PCDATA)>
+<!ELEMENT acteurs (#PCDATA)>
+<!ELEMENT annee (#PCDATA)>
+<!ELEMENT langue (#PCDATA)>
+<!ELEMENT synopsis (#PCDATA)>
+<!ELEMENT note_presse (#PCDATA)>
+<!ELEMENT note_spectateurs (#PCDATA)>
+<!ELEMENT horaires (horaire)+>
+<!ELEMENT horaire EMPTY>
+<!ATTLIST horaire jour CDATA #REQUIRED heure CDATA #REQUIRED>
